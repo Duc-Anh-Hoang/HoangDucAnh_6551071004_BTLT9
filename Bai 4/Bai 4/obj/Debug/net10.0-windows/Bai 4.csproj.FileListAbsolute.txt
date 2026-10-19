@@ -151,8 +151,6 @@ D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\bin\Debug\net10.0-
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\bin\Debug\net10.0-windows\runtimes\win-x64\native\msalruntime.dll
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\bin\Debug\net10.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.csproj.AssemblyReference.cache
-D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai_4.Form1.resources
-D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.csproj.GenerateResource.cache
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.GeneratedMSBuildEditorConfig.editorconfig
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.AssemblyInfoInputs.cache
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.AssemblyInfo.cs
@@ -163,3 +161,6 @@ D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.pdb
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.genruntimeconfig.cache
 D:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\ref\Bai 4.dll
+d:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\bin\Debug\net10.0-windows\appsettings.Development.json
+d:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\bin\Debug\net10.0-windows\appsettings.json
+d:\University\CSharp\HoangDucAnh_6551071004_BTLT9\Bai 4\Bai 4\obj\Debug\net10.0-windows\Bai 4.sourcelink.json
